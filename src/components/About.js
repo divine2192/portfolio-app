@@ -7,7 +7,7 @@ function About() {
   <div class="container">
     <div class="row justify-content-md-center">
       <div class="col-12 col-md-10 col-lg-8 col-xl-7 col-xxl-6">
-        <h2 class="mb-4 display-5 text-center">Skills</h2>
+        <h2 class="mb-4 display-5 text-center">About</h2>
         <p class="text-secondary mb-5 text-center lead fs-4">Since beginning my journey as a freelance designer 12 years ago, I've done remote work for agencies, consulted for startups, and collaborated with talented people to create digital products for both business and consumer use. I'm quietly confident, naturally curious, and perpetually working on improving my craft.</p>
         
       </div>
