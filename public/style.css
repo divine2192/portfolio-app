@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@500&display=swap");
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration:none;
+}
+
+body {
+    background-image: url('../src/Assets/home-bg.jpg');
+    color:white;
+    overflow: hidden;
+    overflow-y: scroll;
+    font-family: "Raleway", serif !important;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-image: linear-gradient(to left, rgb(27 20 41), rgb(20 15 35));
+  
+}
+.btn-contact{
+    background-color:#AE2B3C ;
+}
