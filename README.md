@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# Portfolio React App
+## Description
+This project involve creating a portfolio using React js.
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -61,7 +64,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/m
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
+## Screenshot
+![alt text](<src/Assets/Screenshot 2024-02-23 165719.png>)
+![alt text](<src/Assets/Screenshot 2024-02-23 165829s.png>)
+![alt text](<src/Assets/Screenshot 2024-02-23 165923.png>)
+
 ### Deployment
+
+https://divine2192.github.io/portfolio-app/
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
